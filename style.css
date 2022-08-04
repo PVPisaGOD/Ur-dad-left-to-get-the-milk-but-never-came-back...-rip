@@ -1,0 +1,60 @@
+/* Add font style and background color to the body */
+body
+{
+    font-family: 'Special Elite', cursive;
+    background-color: rgb(22, 22, 66);
+}
+
+
+
+
+/* Add style to the header div */
+.header_div
+{
+    background: rgb(252, 152, 3);
+    color: rgb(153, 110, 179)
+}
+
+
+
+
+/* Add style to the header p tag: */
+.header_div p{
+    font-family: 'Roboto', san-serif;
+    color:cornflowerblue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+/* Add style to the button */
+.main_div button{
+    font-family: 'roboto', san-serif;
+    margin-top: 30px;
+    width: 131px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+
+
+
+
+
+/* Add style to the footer */
+.copy_right_footer {
+    position: fixed;
+    color: rgb(0, 102, 255);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:rgb(255, 217, 0);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 4px rgb(0, 0, 0);
+}
